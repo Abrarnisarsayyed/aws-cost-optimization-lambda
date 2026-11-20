@@ -34,6 +34,9 @@ The Lambda function checks whether snapshots are associated with existing EBS vo
 ### CloudWatch Logs
 ![CloudWatch Logs](screenshots/cloudwatch-logs.png)
 
+### EventBridge Schedule
+![EventBridge Schedule](screenshots/eventbridge-schedule.png)
+
 ## Learning Outcomes
 - Practiced AWS serverless automation with Lambda and Boto3.
 - Configured IAM permissions for EC2/EBS resource inspection and snapshot deletion.
