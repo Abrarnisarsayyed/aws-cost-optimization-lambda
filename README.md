@@ -28,9 +28,6 @@ The Lambda function checks whether snapshots are associated with existing EBS vo
 ### Lambda Test Execution
 ![Lambda Test Output](screenshots/lambda-test-output.png)
 
-### EventBridge Schedule
-![EventBridge Schedule](screenshots/eventbridge-schedule.png)
-
 ### IAM Permissions
 ![IAM Policy](screenshots/iam-policy.png)
 
